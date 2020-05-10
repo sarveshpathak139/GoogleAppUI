@@ -1,6 +1,8 @@
-# newapp
+# Google App UI in Flutter.
 
 A new Flutter project.
+
+<img src="lib/images/dashflutter.png">
 
 ## Getting Started
 
