@@ -7,6 +7,13 @@ A new Flutter project.
 <h3>Android View</h3>
 <img src="Screenshot/Android.png">
 
+<h3>Web View</h3>
+<img src="Screenshot/webview.png">
+
+<h3>Desktop View</h3>
+<img src="Screenshot/desktopview.png">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
