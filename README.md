@@ -4,8 +4,8 @@ A new Flutter project.
 
 <img src="lib/images/dashflutter.png">
 
-
-<img src="dashflutter.png">
+<h3>Android View</h3>
+<img src="Screenshot/Android.png">
 
 ## Getting Started
 
