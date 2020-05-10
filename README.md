@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="dashflutter.png">
+<img src="lib/images/dashflutter.png">
 
 ## Getting Started
 
